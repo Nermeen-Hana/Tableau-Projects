@@ -31,7 +31,7 @@ It includes key metrics and filters to explore property prices by location, date
 - Certain neighborhoods consistently outperform others in value growth.
 
 ### 🖼 Dashboard Preview
-![King County House Sales Dashboard](King County House Sales Dashboard.png)
+![King County House Sales Dashboard](King_County_House_Sales_Dashboard.png)
 
 ---
 
